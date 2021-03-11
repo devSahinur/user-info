@@ -1,0 +1,11 @@
+.info-container{
+    border: 1px solid red;
+    width: 50%;
+    padding: 10px;
+    margin:0 auto;
+}
+.info-container img{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
