@@ -1,8 +1,9 @@
 .info-container{
     border: 1px solid red;
-    width: 50%;
+    width: 400px;
+    margin:10px;
+    margin-left: 200px;
     padding: 10px;
-    margin:0 auto;
 }
 .info-container img{
     width: 200px;
